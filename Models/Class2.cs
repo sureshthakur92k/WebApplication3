@@ -7,5 +7,6 @@ namespace WebApplication3.Models
 {
     public class Class2
     {
+        public int id { get; set; }
     }
 }
